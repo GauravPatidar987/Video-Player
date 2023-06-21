@@ -1,0 +1,50 @@
+[
+  {
+    "artifactId": "exoplayer",
+    "excludes": [],
+    "groupId": "com.google.android.exoplayer",
+    "versionName": "r2.4.0"
+  },
+  {
+    "artifactId": "exoplayer-core",
+    "excludes": [],
+    "groupId": "com.google.android.exoplayer",
+    "versionName": "r2.4.0"
+  },
+  {
+    "artifactId": "exoplayer-dash",
+    "excludes": [],
+    "groupId": "com.google.android.exoplayer",
+    "versionName": "r2.4.0"
+  },
+  {
+    "artifactId": "exoplayer-hls",
+    "excludes": [],
+    "groupId": "com.google.android.exoplayer",
+    "versionName": "r2.4.0"
+  },
+  {
+    "artifactId": "exoplayer-smoothstreaming",
+    "excludes": [],
+    "groupId": "com.google.android.exoplayer",
+    "versionName": "r2.4.0"
+  },
+  {
+    "artifactId": "exoplayer-ui",
+    "excludes": [],
+    "groupId": "com.google.android.exoplayer",
+    "versionName": "r2.4.0"
+  },
+  {
+    "artifactId": "recyclerview",
+    "excludes": [],
+    "groupId": "androidx.recyclerview",
+    "versionName": "1.2.0"
+  },
+  {
+    "artifactId": "glide",
+    "excludes": [],
+    "groupId": "com.github.bumptech.glide",
+    "versionName": "4.11.0"
+  }
+]
